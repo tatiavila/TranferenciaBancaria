@@ -1,0 +1,16 @@
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\bin\Debug\net5.0\Bank.exe
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\bin\Debug\net5.0\Bank.deps.json
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\bin\Debug\net5.0\Bank.dll
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\bin\Debug\net5.0\ref\Bank.dll
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\bin\Debug\net5.0\Bank.pdb
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\Bank.dll
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\ref\Bank.dll
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\Bank.pdb
+D:\Meus Documentos D\Programação\DIO\C#Everis\ContaBancaria\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
